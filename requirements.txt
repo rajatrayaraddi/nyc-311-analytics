@@ -10,6 +10,7 @@ prophet
 plotly
 folium
 scipy
+mpl-chord-diagram
 mlxtend
 networkx
 cmdstanpy
