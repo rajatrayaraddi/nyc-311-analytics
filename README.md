@@ -13,9 +13,7 @@ This project analyzes New York City’s 311 service request data using spatial-t
 - `misc.ipynb`: Secondary analyses, exploratory experiments, and discarded or failed modeling attempts.
 
 ## Getting Started
-- ```bash
-pip install -r requirements.txt
-```
+- ```bash pip install -r requirements.txt```
 - The `main.ipynb` notebook requires the cleaned dataset to run. Cleaned subsets of 1 million and 10 million records are available at: [Google Drive](https://drive.google.com/drive/folders/12OJPEONHrgj9wPlaK0LTAHlq4rEApsGQ?usp=share_link)
 
 ## Dataset
