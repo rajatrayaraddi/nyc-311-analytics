@@ -12,3 +12,8 @@ folium
 scipy
 mlxtend
 networkx
+cmdstanpy
+wordcloud
+holoviews
+bokeh
+narwhals
