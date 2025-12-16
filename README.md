@@ -13,7 +13,10 @@ This project analyzes New York City’s 311 service request data using spatial-t
 - `misc.ipynb`: Secondary analyses, exploratory experiments, and discarded or failed modeling attempts.
 
 ## Getting Started
-The `main.ipynb` notebook requires the cleaned dataset to run. Cleaned subsets of 1 million and 10 million records are available at: [Google Drive](https://drive.google.com/drive/folders/12OJPEONHrgj9wPlaK0LTAHlq4rEApsGQ?usp=share_link)
+- ```bash
+pip install -r requirements.txt
+```
+- The `main.ipynb` notebook requires the cleaned dataset to run. Cleaned subsets of 1 million and 10 million records are available at: [Google Drive](https://drive.google.com/drive/folders/12OJPEONHrgj9wPlaK0LTAHlq4rEApsGQ?usp=share_link)
 
 ## Dataset
 The full NYC 311 Service Requests dataset is available at: [NYC 311 Service Requests (NYC Open Data)](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data)
