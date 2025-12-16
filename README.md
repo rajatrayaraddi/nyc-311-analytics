@@ -2,6 +2,7 @@
 This project analyzes New York City’s 311 service request data using spatial-temporal analytics, data mining, and machine learning to uncover patterns in complaint behavior across time, location, and service categories. The study performs exploratory analysis, geospatial clustering, contrast and sequential pattern mining, anomaly detection, time-series forecasting, and resolution-time prediction.
 
 ## Important Notes
+- A fully interactive version of `main.ipynb` is available at: [Google Colab](https://colab.research.google.com/drive/1-8MAb94Gn7sJKuG9dWDu4IRkZTjIGzLp?authuser=1#scrollTo=bfa93f9e)
 - The notebooks are best viewed and executed locally with all required dependencies installed; otherwise, interactive visualizations generated using Prophet, Plotly, and Folium may not render correctly.
 - The `misc.ipynb` notebook is not intended to be run sequentially, as it contains isolated cells from exploratory and experimental analyses.
 
