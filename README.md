@@ -22,5 +22,8 @@ This project analyzes New York City’s 311 service request data using spatial-t
 ## Dataset
 The full NYC 311 Service Requests dataset is available at: [NYC 311 Service Requests (NYC Open Data)](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data)
 
+## Draft Paper
+A detailed write-up of this work is available on [Zenodo](https://doi.org/10.5281/zenodo.17956488).
+
 ## License
 This project is released under the [MIT License](LICENSE).
